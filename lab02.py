@@ -9,7 +9,7 @@ print (age)
 print (height)
 print (favorite_color)
 print (name,age,height,favorite_color)
-print (f"{name}") #not done make a normal sentence stating like my name is, i am
+print (f"Hello my name is {name}, I am {age} years old and {height} feet tall. My favorite color is {favorite_color}.")
 print (f"""
 Name: {name}
 Age: {age}
