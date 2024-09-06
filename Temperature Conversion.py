@@ -1,4 +1,3 @@
-f = int(input("Enter a Temperature in Fahrenheit to Convert it to Celsius : ").strip())
-print (f)
+f = int(input("Enter a temperature in fahrenheit to convert it to celsius: ").strip())
 c = ((f-32)*(5/9))
-print (f"{c:.1f}°")
+print(f"{f}°F is equal to {c:.1f}°C")
